@@ -19,13 +19,14 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:main" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main/master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c932d8e0-0bbc-400e-aa47-f0d1f6129d58" name="Default Changelist" comment="" />
+    <list default="true" id="c932d8e0-0bbc-400e-aa47-f0d1f6129d58" name="Default Changelist" comment="2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +48,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RunManager">
     <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -87,6 +89,14 @@
       <option name="presentableId" value="Default" />
       <updated>1684444815880</updated>
     </task>
+    <task id="LOCAL-00001" summary="2">
+      <created>1684445797529</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684445797529</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,7 +110,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="main/master" />
                       </list>
                     </value>
                   </entry>
@@ -112,19 +122,27 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="1917" y="225" key="#scratch" timestamp="1684445631116">
       <screen x="0" y="0" width="2752" height="1104" />
     </state>
     <state x="1917" y="225" key="#scratch/609.1440.1536.816/0.0.2752.1104@0.0.2752.1104" timestamp="1684445631116" />
+    <state x="885" y="197" key="SettingsEditor" timestamp="1684446128436">
+      <screen x="0" y="0" width="2752" height="1104" />
+    </state>
+    <state x="885" y="197" key="SettingsEditor/609.1440.1536.816/0.0.2752.1104@0.0.2752.1104" timestamp="1684446128436" />
     <state x="1960" y="334" key="VCS.ChangeListViewerDialog" timestamp="1684445527282">
       <screen x="0" y="0" width="2752" height="1104" />
     </state>
     <state x="1960" y="334" key="VCS.ChangeListViewerDialog/609.1440.1536.816/0.0.2752.1104@0.0.2752.1104" timestamp="1684445527282" />
-    <state x="969" y="285" key="Vcs.Push.Dialog.v2" timestamp="1684445734049">
+    <state x="969" y="285" key="Vcs.Push.Dialog.v2" timestamp="1684445847424">
       <screen x="0" y="0" width="2752" height="1104" />
     </state>
-    <state x="969" y="285" key="Vcs.Push.Dialog.v2/609.1440.1536.816/0.0.2752.1104@0.0.2752.1104" timestamp="1684445734049" />
+    <state x="969" y="285" key="Vcs.Push.Dialog.v2/609.1440.1536.816/0.0.2752.1104@0.0.2752.1104" timestamp="1684445847424" />
     <state x="1205" y="177" width="1991" height="904" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1684445784236">
       <screen x="0" y="0" width="2752" height="1104" />
     </state>
